@@ -1,0 +1,19 @@
+Exercise No 4
+Inheritance
+Aim: Write a Java program which creates a class named 'Employee' having the following
+members: Name, Age, Phone number, Address, Salary. It also has a method named
+'print-Salary()' which prints the salary of the Employee. Two classes 'Officer' and 'Manager'
+inherits the 'Employee' class. The 'Officer' and 'Manager' classes have data members
+'specialization' and 'department' respectively. Now, assign name, age, phone number, address and
+salary to an officer and a manager by making an object of both of these classes and print the
+same. (Exercise to understand inheritance)
+Algorithm:
+Step 1: Create a class Employee with given variables and method- print-salary() to print the
+salary..
+Step 2 Create two subclasses of class Employee named Officer and Manager. Include the
+variable 'specialization' in Officer class and ‘department’ in Manager class
+Step 3: Create a class with the main function. Inside the main function do the following steps.
+Step 4: Create an object of Officer class and assign appropriate values to the variables.
+Step 5: Create an object of Manager class and assign appropriate values to the variables.
+Step 6: Print the values of variables using objects.
+Step 7: Invoke the function print-salary() using objects to print the salary.
